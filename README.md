@@ -1,6 +1,6 @@
 # Building a toy RVC CPU
 
-ShanghaiTech 2023 spring project 2
+ShanghaiTech 2024 spring project 2
 
 author: Gubin Hu
 

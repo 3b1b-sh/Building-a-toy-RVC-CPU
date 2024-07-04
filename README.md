@@ -12,6 +12,8 @@ java -jar logisim-evolution.jar
 Then, you should open project_2_2.circ in logisim, then you will see things like this:
 ![1](https://cdn.luogu.com.cn/upload/image_hosting/b7u0qqgz.png)
 
+Others are the component of the whole RVC CPU circuit.
+
 ## Introduction
 
 This excerpt from the RISC-V User-Level ISA Specification describes the current draft proposal for the RISC-V standard compressed instruction set extension, named “C”, which reduces static and dynamic code size by adding short 16-bit instruction encodings for common operations. The C extension can be added to any of the base ISAs (RV32, RV64, RV128), and we use the generic term “RVC” to cover any of these. Typically, 50%–60% of the RISC-V instructions in a program can be replaced with RVC instructions, resulting in a 25%–30% code-size reduction. In this project, we will build a CPU that solely supports some of the RVC instructions.

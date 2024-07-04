@@ -14,7 +14,7 @@ java -jar logisim-evolution.jar
 Then, you should open project_2_2.circ in logisim, then you will see things like this:
 ![1](https://cdn.luogu.com.cn/upload/image_hosting/b7u0qqgz.png)
 
-Others are the component of the whole RVC CPU circuit.
+Others are the components of the whole RVC CPU circuit.
 
 ## Introduction
 

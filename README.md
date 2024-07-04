@@ -4,6 +4,8 @@ ShanghaiTech 2024 Spring Project 2
 
 author: Gubin Hu
 
+**If you think the project is inspirational or interesting, please give it a star.**
+
 ## Quick Start
 You can run the code below to start logisim:
 ```java

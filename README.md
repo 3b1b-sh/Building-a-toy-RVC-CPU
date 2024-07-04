@@ -1,10 +1,16 @@
 # Building a toy RVC CPU
 
-ShanghaiTech 2024 spring project 2
+ShanghaiTech 2024 Spring Project 2
 
 author: Gubin Hu
 
-
+## Quick Start
+You can run the code below to start logisim:
+```java
+java -jar logisim-evolution.jar 
+```
+Then, you should open project_2_2.circ in logisim, then you will see things like this:
+![1](https://cdn.luogu.com.cn/upload/image_hosting/b7u0qqgz.png)
 
 ## Introduction
 
@@ -106,7 +112,7 @@ Table 1.1 shows the eight compressed instruction formats. CR, CI, and CSS can us
 
 ### TOP I/O
 
-The inputs and outputs of top level are fixed in `TOP` circuit, which is shown below.
+The inputs and outputs of the top-level are fixed in the `TOP` circuit, shown below.
 
 | Type | signal | bit width | description |
 | --- | --- | --- | --- |
